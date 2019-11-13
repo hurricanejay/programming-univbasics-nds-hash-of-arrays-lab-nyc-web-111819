@@ -10,7 +10,7 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   [:third_earthers] << "Snarf"
   [:chipmunks] << "Dave"
-  [:jetsons] << 
+  [:jetsons] << "Astro"
   
   show
 end
