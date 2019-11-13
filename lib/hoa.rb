@@ -9,9 +9,7 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
  
-  [:chipmunks] << "Dave"
-  [:third_earthers] << "Snarf"
-  [:jetsons] << "Astro"
+[show] << name
   
   show
 end
